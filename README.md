@@ -36,6 +36,6 @@ SELECT AVG(MC_GBP_Billion) FROM Largest_banks;
 SELECT Name FROM Largest_banks LIMIT 5;
 ```
 
-##Author
+## Author
 Stephon Boapeah
 Python Data Engineer | Coursera IBM Certification
