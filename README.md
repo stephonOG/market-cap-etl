@@ -38,4 +38,5 @@ SELECT Name FROM Largest_banks LIMIT 5;
 
 ## Author
 Stephon Boapeah
+
 Python Data Engineer | Coursera IBM Certification
