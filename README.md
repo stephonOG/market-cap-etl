@@ -18,7 +18,7 @@ This project was developed for the final exam of my **IBM Python Data Engineerin
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/banking-etl.git
+   git clone https://github.com/yourusername/market-cap-etl.git
    ```
 2. Install dependencies:
    ```bash
