@@ -4,10 +4,10 @@
 This project was developed for the final exam of my **IBM Python Data Engineering Project on Coursera**. The goal is to build an **ETL pipeline** that extracts, transforms, and loads data about the **largest banks in the world ranked by market capitalization**.
 
 ## Data Pipeline Workflow
-1️⃣ **Extract** - Web scrapes banking data from Wikipedia.  
-2️⃣ **Transform** - Converts USD market cap to GBP, EUR, and INR using exchange rates.  
-3️⃣ **Load** - Stores cleaned data into a **CSV file** and an **SQLite database**.  
-4️⃣ **Query** - Runs SQL queries to analyze the top banks.
+- **Extract** - Web scrapes banking data from Wikipedia.  
+- **Transform** - Converts USD market cap to GBP, EUR, and INR using exchange rates.  
+- **Load** - Stores cleaned data into a **CSV file** and an **SQLite database**.  
+- **Query** - Runs SQL queries to analyze the top banks.
 
 ## Tech Stack
 - **Python** (Pandas, BeautifulSoup, SQLite)
