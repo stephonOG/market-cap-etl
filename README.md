@@ -34,3 +34,8 @@ This project was developed for the final exam of my **IBM Python Data Engineerin
 SELECT * FROM Largest_banks;
 SELECT AVG(MC_GBP_Billion) FROM Largest_banks;
 SELECT Name FROM Largest_banks LIMIT 5;
+```
+
+##Author
+Stephon Boapeah
+Python Data Engineer | Coursera IBM Certification
